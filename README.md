@@ -27,14 +27,14 @@
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/giorgosart/react-easy-edit?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
-	    <td><a href="https://github.com/giorgosart/react-easy-edit"><b>Java String Utils</b></a></td>
+	    <td><a href="https://github.com/giorgosart/java-string-utils"><b>Java String Utils</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/giorgosart/java-string-utils?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/giorgosart/java-string-utils?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/giorgosart/java-string-utils?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/giorgosart/java-string-utils?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
-	    <td><a href="https://github.com/giorgosart/react-easy-edit"><b>Javascript type checking</b></a></td>
+	    <td><a href="https://github.com/giorgosart/strong-typed"><b>Javascript type checking</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/giorgosart/strong-typed?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/giorgosart/strong-typed?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/giorgosart/strong-typed?style=flat-square&labelColor=343b41"/></td>
