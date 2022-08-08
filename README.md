@@ -2,7 +2,7 @@
 
 <span><img src="https://visitor-badge.laobi.icu/badge?page_id=giorgosart" alt="visitor badge"/></span>
 
-- 💼 Software Development Manager at the Access Group
+- 💼 Engineering Manager at the Access Group
 - 🎓 MSc and BSc in Computer Science
 - 🔭 Currently working on a space sim RPG game
 - 🌱 I’m currently learning more about software design patterns and principles
