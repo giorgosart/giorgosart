@@ -2,10 +2,9 @@
 
 <span><img src="https://visitor-badge.laobi.icu/badge?page_id=giorgosart" alt="visitor badge"/></span>
 
-- 💼 Engineering Manager at M&S
+- 💼 Engineering Manager at [M&S](https://github.com/DigitalInnovation)
 - 🎓 MSc and BSc in Computer Science
-- 🔭 Currently working on a space sim RPG game
-- 🌱 I’m currently learning more about software design patterns and principles
+- 🔭 Currently working on multiple things, some of them listed below!
 
 <h3>Open source projects</h3>
 <table>
@@ -20,21 +19,21 @@
   </thead>
   <tbody>
     <tr>
-	    <td><a href="https://github.com/giorgosart/react-easy-edit"><b>React EasyEdit component</b></a></td>
+      <td><a href="https://github.com/giorgosart/react-easy-edit"><b>React EasyEdit component</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/giorgosart/react-easy-edit?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/giorgosart/react-easy-edit?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/giorgosart/react-easy-edit?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/giorgosart/react-easy-edit?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
-	    <td><a href="https://github.com/giorgosart/java-string-utils"><b>Java String Utils</b></a></td>
+      <td><a href="https://github.com/giorgosart/java-string-utils"><b>Java String Utils</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/giorgosart/java-string-utils?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/giorgosart/java-string-utils?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/giorgosart/java-string-utils?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/giorgosart/java-string-utils?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
-	    <td><a href="https://github.com/giorgosart/strong-typed"><b>Javascript type checking</b></a></td>
+      <td><a href="https://github.com/giorgosart/strong-typed"><b>Javascript type checking</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/giorgosart/strong-typed?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/giorgosart/strong-typed?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/giorgosart/strong-typed?style=flat-square&labelColor=343b41"/></td>
@@ -42,6 +41,31 @@
     </tr>
   </tbody>
 </table>
-<p align="left">
-  <img src ="https://github-readme-stats.vercel.app/api?username=giorgosart&show_icons=true&count_private=true&theme=default&hide_border=true&hide=issues,contribs&include_all_commits=true">
-</p>
+
+<h3>My Games and Apps</h3>
+<table>
+  <thead align="center">
+    <tr border: none;>
+      <td><b>Project</b></td>
+      <td><b>Platform</b></td>
+      <td><b>Download</b></td>      
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Scaly Snake</b></td>
+      <td>Windows, Linux</td>
+      <td><a href="https://giorgosart.itch.io/scaly-snake/devlog/643971/scaly-snake-is-live">Itch.io</a></td>
+    </tr>
+    <tr>
+      <td><b>Cypriot Dictionary</b></a></td>
+      <td>Android</td>
+      <td><a href="https://play.google.com/store/apps/details?id=uk.co.artemiou.cypriotdictionary">Play Store</a></td>
+    </tr>
+    <tr>
+      <td><b>Flip Card Memory Game</b></td>
+      <td>Android</td>
+      <td><a>Coming Soon</a></td>
+    </tr>
+  </tbody>
+</table>
