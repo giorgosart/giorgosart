@@ -2,6 +2,7 @@
 
 <span><img src="https://visitor-badge.laobi.icu/badge?page_id=giorgosart" alt="visitor badge"/></span>
 
+- 📍 Originaly from 🇨🇾, now living in the UK	
 - 💼 Engineering Manager at [M&S](https://github.com/DigitalInnovation)
 - 🎓 MSc and BSc in Computer Science
 - 🔭 Currently working on multiple things, some of them listed below!
@@ -10,7 +11,7 @@
 <table>
   <thead align="center">
     <tr border: none;>
-      <td><b>🎁 Projects</b></td>
+      <td><b>🗂️ Projects</b></td>
       <td><b>⭐ Stars</b></td>
       <td><b>📚 Forks</b></td>
       <td><b>🛎 Issues</b></td>
@@ -46,24 +47,24 @@
 <table>
   <thead align="center">
     <tr border: none;>
-      <td><b>Project</b></td>
-      <td><b>Platform</b></td>
-      <td><b>Download</b></td>      
+      <td><b>🗂️ Project</b></td>
+      <td><b>📡 Platform</b></td>
+      <td><b>⬇️ Download</b></td>      
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td><b>Scaly Snake</b></td>
+      <td><b>🕹️ Scaly Snake</b></td>
       <td>Windows, Linux</td>
       <td><a href="https://giorgosart.itch.io/scaly-snake/devlog/643971/scaly-snake-is-live">Itch.io</a></td>
     </tr>
     <tr>
-      <td><b>Cypriot Dictionary</b></a></td>
+      <td><b>📱 Cypriot Dictionary</b></a></td>
       <td>Android</td>
       <td><a href="https://play.google.com/store/apps/details?id=uk.co.artemiou.cypriotdictionary">Play Store</a></td>
     </tr>
     <tr>
-      <td><b>Flip Card Memory Game</b></td>
+      <td><b>📱 Flip Card Memory Game</b></td>
       <td>Android</td>
       <td><a>Coming Soon</a></td>
     </tr>
