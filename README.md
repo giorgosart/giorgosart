@@ -66,7 +66,7 @@
     <tr>
       <td><b>📱 Flip Card Memory Game</b></td>
       <td>Android</td>
-      <td><a>Coming Soon</a></td>
+      <td><a href="https://play.google.com/store/apps/details?id=uk.co.artemiou.memorymatch">Play Store</a></td>
     </tr>
   </tbody>
 </table>
