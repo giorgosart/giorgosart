@@ -56,17 +56,17 @@
     <tr>
       <td><b>🕹️ Scaly Snake</b></td>
       <td>Windows, Linux</td>
-      <td><a href="https://giorgosart.itch.io/scaly-snake/devlog/643971/scaly-snake-is-live">Itch.io</a></td>
+      <td><a href="https://giorgosart.itch.io/scaly-snake/devlog/643971/scaly-snake-is-live" target="_blank">Itch.io</a></td>
     </tr>
     <tr>
       <td><b>📱 Cypriot Dictionary</b></a></td>
       <td>Android</td>
-      <td><a href="https://play.google.com/store/apps/details?id=uk.co.artemiou.cypriotdictionary">Play Store</a></td>
+      <td><a href="https://play.google.com/store/apps/details?id=uk.co.artemiou.cypriotdictionary" target="_blank">Play Store</a></td>
     </tr>
     <tr>
       <td><b>📱 Memory Match</b></td>
       <td>Android</td>
-      <td><a href="https://play.google.com/store/apps/details?id=uk.co.artemiou.memorymatch">Play Store</a></td>
+      <td><a href="https://play.google.com/store/apps/details?id=uk.co.artemiou.memorymatch" target="_blank">Play Store</a></td>
     </tr>
   </tbody>
 </table>
